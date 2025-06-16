@@ -1,0 +1,14 @@
+C:\Users\redra\source\repos\MorpionHaha\MorpionHaha\bin\Debug\net8.0\MorpionHaha.exe
+C:\Users\redra\source\repos\MorpionHaha\MorpionHaha\bin\Debug\net8.0\MorpionHaha.deps.json
+C:\Users\redra\source\repos\MorpionHaha\MorpionHaha\bin\Debug\net8.0\MorpionHaha.runtimeconfig.json
+C:\Users\redra\source\repos\MorpionHaha\MorpionHaha\bin\Debug\net8.0\MorpionHaha.dll
+C:\Users\redra\source\repos\MorpionHaha\MorpionHaha\bin\Debug\net8.0\MorpionHaha.pdb
+C:\Users\redra\source\repos\MorpionHaha\MorpionHaha\obj\Debug\net8.0\MorpionHaha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redra\source\repos\MorpionHaha\MorpionHaha\obj\Debug\net8.0\MorpionHaha.AssemblyInfoInputs.cache
+C:\Users\redra\source\repos\MorpionHaha\MorpionHaha\obj\Debug\net8.0\MorpionHaha.AssemblyInfo.cs
+C:\Users\redra\source\repos\MorpionHaha\MorpionHaha\obj\Debug\net8.0\MorpionHaha.csproj.CoreCompileInputs.cache
+C:\Users\redra\source\repos\MorpionHaha\MorpionHaha\obj\Debug\net8.0\MorpionHaha.dll
+C:\Users\redra\source\repos\MorpionHaha\MorpionHaha\obj\Debug\net8.0\refint\MorpionHaha.dll
+C:\Users\redra\source\repos\MorpionHaha\MorpionHaha\obj\Debug\net8.0\MorpionHaha.pdb
+C:\Users\redra\source\repos\MorpionHaha\MorpionHaha\obj\Debug\net8.0\MorpionHaha.genruntimeconfig.cache
+C:\Users\redra\source\repos\MorpionHaha\MorpionHaha\obj\Debug\net8.0\ref\MorpionHaha.dll

@@ -1,0 +1,14 @@
+C:\Users\redra\source\repos\MorpionClient\MorpionClient\bin\Debug\net8.0\MorpionClient.exe
+C:\Users\redra\source\repos\MorpionClient\MorpionClient\bin\Debug\net8.0\MorpionClient.deps.json
+C:\Users\redra\source\repos\MorpionClient\MorpionClient\bin\Debug\net8.0\MorpionClient.runtimeconfig.json
+C:\Users\redra\source\repos\MorpionClient\MorpionClient\bin\Debug\net8.0\MorpionClient.dll
+C:\Users\redra\source\repos\MorpionClient\MorpionClient\bin\Debug\net8.0\MorpionClient.pdb
+C:\Users\redra\source\repos\MorpionClient\MorpionClient\obj\Debug\net8.0\MorpionClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redra\source\repos\MorpionClient\MorpionClient\obj\Debug\net8.0\MorpionClient.AssemblyInfoInputs.cache
+C:\Users\redra\source\repos\MorpionClient\MorpionClient\obj\Debug\net8.0\MorpionClient.AssemblyInfo.cs
+C:\Users\redra\source\repos\MorpionClient\MorpionClient\obj\Debug\net8.0\MorpionClient.csproj.CoreCompileInputs.cache
+C:\Users\redra\source\repos\MorpionClient\MorpionClient\obj\Debug\net8.0\MorpionClient.dll
+C:\Users\redra\source\repos\MorpionClient\MorpionClient\obj\Debug\net8.0\refint\MorpionClient.dll
+C:\Users\redra\source\repos\MorpionClient\MorpionClient\obj\Debug\net8.0\MorpionClient.pdb
+C:\Users\redra\source\repos\MorpionClient\MorpionClient\obj\Debug\net8.0\MorpionClient.genruntimeconfig.cache
+C:\Users\redra\source\repos\MorpionClient\MorpionClient\obj\Debug\net8.0\ref\MorpionClient.dll

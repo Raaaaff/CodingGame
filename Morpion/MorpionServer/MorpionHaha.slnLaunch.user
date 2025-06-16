@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Nouveau profil",
+    "Projects": [
+      {
+        "Path": "MorpionHaha\\MorpionHaha.csproj",
+        "Action": "Start",
+        "DebugTarget": "MorpionHaha"
+      },
+      {
+        "Path": "MorpionClient\\MorpionClient.csproj",
+        "Action": "Start",
+        "DebugTarget": "MorpionClient"
+      }
+    ]
+  }
+]
