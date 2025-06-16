@@ -23,8 +23,3 @@ Le serveur gère l’état du jeu, les règles, la synchronisation et les client
 
 ---
 
-## 🧪 Instructions d'utilisation
-
-1. **Lancer le serveur**
-   ```bash
-   ./MorpionServer.exe
